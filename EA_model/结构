@@ -1,0 +1,13 @@
+交易 main
+
+Setting 全局变量
+
+Acquisition 从API接口获取数据
+
+GitFeature 计算指标及图形
+
+Operate 买卖操作
+
+Mainstay 主体，判断进场点位
+
+XXX 可添加根据情况的策略方法
